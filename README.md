@@ -1,17 +1,15 @@
 # JBurst
 
 ### What is it?
-JBurst is a non-revolutionary addition to [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing) modeled from [HaxeFlixel](https://haxeflixel.com) that adds sprites with animation and simple transformation methods.
+JBurst is an addition to [Java Swing](https://docs.oracle.com/javase/tutorial/uiswing) modeled from [HaxeFlixel](https://haxeflixel.com) that adds graphics with animation and simple transformation methods.
 
 ### Why did I make it?
-I always found it frustrating how JLabel only really supported static images.
-
-(This was once intended to be a very basic game engine, but I've since lost interest)
+I always found it frustrating how JLabel only really supported static images. 
 
 ### Notes
-- Layout managers cause the sprites to behave wierdly, so they usually have to be deactivated.
+- Layout managers cause the sprites to behave wierdly, so they have to be deactivated.
 
-- I worked on this in my free time during high school so it may have problems here and there. If you find one, report it! I may look into it.
+- I worked on this in my free time during high school so it may have problems here and there. If you find one, report it! 
 
 ## How do I use it?
 ### Requirements
@@ -97,5 +95,5 @@ public class App
 ## Helping
 There are things that I definitely do not know about Swing and other things that I'm unfamiliar with regarding Java. So, if you have any suggestions (or warnings) let me hear them.
 
-# HaxeFlixel
-If you enjoy using this, give [HaxeFlixel](https://haxeflixel.com) a shot. A large amount of JBurst's animation system is modeled on their game engine, so it would feel wrong not to mention them.
+# OpenFL/HaxeFlixel
+If you enjoy using this, give [OpenFL](https://www.openfl.org)/[HaxeFlixel](https://haxeflixel.com) a shot. A large amount of JBurst's animation system is modeled on their engine. 
